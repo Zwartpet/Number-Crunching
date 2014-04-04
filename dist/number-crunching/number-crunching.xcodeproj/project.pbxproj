@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		528CA8ED18ED784B00EF98BE /* HNCMath.m in Sources */ = {isa = PBXBuildFile; fileRef = 528CA8EC18ED784B00EF98BE /* HNCMath.m */; };
+		528CA8F018ED879D00EF98BE /* HNCQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 528CA8EF18ED879D00EF98BE /* HNCQueue.m */; };
+		528CA8F318ED8A7F00EF98BE /* HNCTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 528CA8F218ED8A7F00EF98BE /* HNCTree.m */; };
+		528CA8F618ED8C3600EF98BE /* HNCNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 528CA8F518ED8C3600EF98BE /* HNCNode.m */; };
 		EAC1854518ED74FE0089744F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAC1854418ED74FE0089744F /* Foundation.framework */; };
 		EAC1854818ED74FE0089744F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC1854718ED74FE0089744F /* main.m */; };
 		EAC1854C18ED74FE0089744F /* number_crunching.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = EAC1854B18ED74FE0089744F /* number_crunching.1 */; };
@@ -26,6 +30,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		528CA8EB18ED784B00EF98BE /* HNCMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HNCMath.h; sourceTree = "<group>"; };
+		528CA8EC18ED784B00EF98BE /* HNCMath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HNCMath.m; sourceTree = "<group>"; };
+		528CA8EE18ED879D00EF98BE /* HNCQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HNCQueue.h; sourceTree = "<group>"; };
+		528CA8EF18ED879D00EF98BE /* HNCQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HNCQueue.m; sourceTree = "<group>"; };
+		528CA8F118ED8A7F00EF98BE /* HNCTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HNCTree.h; sourceTree = "<group>"; };
+		528CA8F218ED8A7F00EF98BE /* HNCTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HNCTree.m; sourceTree = "<group>"; };
+		528CA8F418ED8C3600EF98BE /* HNCNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HNCNode.h; sourceTree = "<group>"; };
+		528CA8F518ED8C3600EF98BE /* HNCNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HNCNode.m; sourceTree = "<group>"; };
 		EAC1854118ED74FE0089744F /* number-crunching */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "number-crunching"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAC1854418ED74FE0089744F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EAC1854718ED74FE0089744F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -76,6 +88,14 @@
 				EAC1854718ED74FE0089744F /* main.m */,
 				EAC1854B18ED74FE0089744F /* number_crunching.1 */,
 				EAC1854918ED74FE0089744F /* Supporting Files */,
+				528CA8EB18ED784B00EF98BE /* HNCMath.h */,
+				528CA8EC18ED784B00EF98BE /* HNCMath.m */,
+				528CA8EE18ED879D00EF98BE /* HNCQueue.h */,
+				528CA8EF18ED879D00EF98BE /* HNCQueue.m */,
+				528CA8F118ED8A7F00EF98BE /* HNCTree.h */,
+				528CA8F218ED8A7F00EF98BE /* HNCTree.m */,
+				528CA8F418ED8C3600EF98BE /* HNCNode.h */,
+				528CA8F518ED8C3600EF98BE /* HNCNode.m */,
 			);
 			path = "number-crunching";
 			sourceTree = "<group>";
@@ -114,6 +134,7 @@
 		EAC1853918ED74FE0089744F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = HNC;
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = UVA;
 			};
@@ -140,6 +161,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAC1854818ED74FE0089744F /* main.m in Sources */,
+				528CA8F318ED8A7F00EF98BE /* HNCTree.m in Sources */,
+				528CA8ED18ED784B00EF98BE /* HNCMath.m in Sources */,
+				528CA8F618ED8C3600EF98BE /* HNCNode.m in Sources */,
+				528CA8F018ED879D00EF98BE /* HNCQueue.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +278,7 @@
 				EAC1855118ED74FE0089744F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
