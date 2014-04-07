@@ -8,9 +8,12 @@
 
 #import <Foundation/Foundation.h>
 #import <math.h>
+#import <gmp.h>
 
 @interface HNCMath : NSObject
 - (int) floorDouble:(double) inputNumber;
 - (double) squareRoot:(double) inputNumber;
 - (int) factorial:(int) inputNumber;
+
+- (void) test;
 @end

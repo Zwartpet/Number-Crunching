@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "HNCNode.h"
+#import "HNCMath.h"
 
 int main(int argc, const char * argv[])
 {
@@ -29,6 +30,9 @@ int main(int argc, const char * argv[])
 //        NSLog(@"%i", [queue size]);
         
         HNCNode *node = [[HNCNode alloc] initWithParent:nil value:2 operationType:Factorial];
+        
+        HNCMath *math = [[HNCMath alloc] init];
+        [math test];
         
     }
     return 0;
