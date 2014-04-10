@@ -11,9 +11,7 @@
 #import <gmp.h>
 
 @interface HNCMath : NSObject
-- (int) floorDouble:(double) inputNumber;
-- (double) squareRoot:(double) inputNumber;
-- (int) factorial:(int) inputNumber;
-
-- (void) test;
+- (void) floorWithInputNumnber:(mpf_t*) inputNumber withReturnNumber:(mpz_t*) returnNumber;
+- (void) squareRootWithInputNumnber:(mpf_t*) inputNumber withReturnNumber:(mpf_t*) returnNumber;
+- (void) factorialWithInputNumber:(mpz_t*) inputNumber withReturnNumber:(mpz_t*) returnNumber;
 @end

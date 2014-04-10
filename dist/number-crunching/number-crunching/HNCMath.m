@@ -11,29 +11,37 @@
 @implementation HNCMath
 
 
-- (int) floorDouble:(double) inputNumber {
-    return floor(inputNumber);
+- (void) floorWithInputNumnber:(mpf_t*) inputNumber withReturnNumber:(mpz_t*) returnNumber {
+    mpf_t number;
+    mpf_init_set(number, *inputNumber);
+    mpf_floor(number, *inputNumber);
+    mpz_set_f(*returnNumber, number);
 }
 
-- (double) squareRoot:(double) inputNumber {
-    return sqrt(inputNumber);
+- (void) squareRootWithInputNumnber:(mpf_t*) inputNumber withReturnNumber:(mpf_t*) returnNumber {
+    
+    mpf_sqrt(*returnNumber, *inputNumber);
 }
 
-- (int) factorial:(int) inputNumber {
-    if (inputNumber == 1) {
-        return 1;
-    }else{
-        return [self factorial:inputNumber-1] * inputNumber;
+- (void) factorialWithInputNumber:(mpz_t*) inputNumber withReturnNumber:(mpz_t*) returnNumber {
+    
+    // number is used as the input because we dont want to change inputNumber value
+    mpz_t number;
+    mpz_init_set(number, *inputNumber);
+    
+    // total contains the total value of the calculation
+    mpz_t total;
+    mpz_init_set_str(total, "1", 0);
+    
+    // represents one in mpz_t
+    mpz_t one;
+    mpz_init_set_str(one, "1", 0);
+    
+    while (mpz_cmp(number, one)) {
+        mpz_mul(total, number, total);
+        mpz_sub_ui(number, number, 1);
     }
-  
-}
-
-- (void) test {
-    mpf_t bla;
-    mpf_init_set_str(bla, "2349872863152304820841302481230481302412349123641237461237894612387461289374612983461298346129384612398461239846123894612398478746234", 0);
-//    mpf_get_d(bla);
-    gmp_printf("%F", mpf_get_d(bla));
-
+    mpz_set(*returnNumber , total);
 }
 
 @end

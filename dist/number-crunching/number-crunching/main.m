@@ -32,7 +32,24 @@ int main(int argc, const char * argv[])
         HNCNode *node = [[HNCNode alloc] initWithParent:nil value:2 operationType:Factorial];
         
         HNCMath *math = [[HNCMath alloc] init];
-        [math test];
+        
+        mpz_t temp;
+        mpz_init(temp);
+        
+        mpz_t temp2;
+        mpz_init(temp2);
+        
+        mpz_set_si(temp, 10);
+        [math factorialWithInputNumber:&temp withReturnNumber:&temp2];
+        [math factorialWithInputNumber:&temp2 withReturnNumber:&temp];
+//        [math floorWithInputNumnber:&temp withReturnNumber:&temp2];
+//        [math squareRootWithInputNumnber:&temp withReturnNumber:&temp2];
+//        char *temp3;
+//        mpz_get_str(temp3, 0, temp);
+//        printf("|%s|\n", temp3);
+        gmp_printf("%Zd\n", temp);
+
+        
         
     }
     return 0;
