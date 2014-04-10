@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <gmp.h>
+
 typedef NS_ENUM(NSInteger, OperationType) {
     None,
     SquareRoot,
@@ -20,9 +22,9 @@ typedef NS_ENUM(NSInteger, OperationType) {
 @property (nonatomic) HNCNode *squareRootNode;
 @property (nonatomic) HNCNode *floorNode;
 @property (nonatomic) HNCNode *factorialNode;
-@property (nonatomic) double value;
+@property (nonatomic) mpf_t *value;
 @property (nonatomic) OperationType type;
 
-- (HNCNode *) initWithParent:(HNCNode *)parent value:(int)value operationType:(OperationType)type;
+- (HNCNode *) initWithParent:(HNCNode *)parent value:(mpf_t *)value operationType:(OperationType)type;
 
 @end

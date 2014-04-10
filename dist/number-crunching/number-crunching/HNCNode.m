@@ -10,7 +10,7 @@
 
 @implementation HNCNode
 
-- (HNCNode *) initWithParent:(HNCNode *)parent value:(int)value operationType:(OperationType)type {
+- (HNCNode *) initWithParent:(HNCNode *)parent value:(mpf_t *)value operationType:(OperationType)type {
     self = [super init];
     [self setParent:parent];
     [self setValue:value];

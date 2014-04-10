@@ -33,13 +33,13 @@ int main(int argc, const char * argv[])
         
         HNCMath *math = [[HNCMath alloc] init];
         
-        mpz_t temp;
-        mpz_init(temp);
+        mpf_t temp;
+        mpf_init(temp);
         
-        mpz_t temp2;
-        mpz_init(temp2);
+        mpf_t temp2;
+        mpf_init(temp2);
         
-        mpz_set_si(temp, 10);
+        mpf_set_si(temp, 8);
         [math factorialWithInputNumber:&temp withReturnNumber:&temp2];
         [math factorialWithInputNumber:&temp2 withReturnNumber:&temp];
 //        [math floorWithInputNumnber:&temp withReturnNumber:&temp2];
@@ -47,7 +47,7 @@ int main(int argc, const char * argv[])
 //        char *temp3;
 //        mpz_get_str(temp3, 0, temp);
 //        printf("|%s|\n", temp3);
-        gmp_printf("%Zd\n", temp);
+//        gmp_printf("%Ff\n", temp);
 
         
         

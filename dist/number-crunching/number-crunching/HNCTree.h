@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "HNCQueue.h"
+#import "HNCMath.h"
 #import "HNCNode.h"
 
 @interface HNCTree : NSObject {
