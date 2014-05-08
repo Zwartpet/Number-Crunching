@@ -27,6 +27,7 @@ class Tree(object):
 				self.valuesToFind.remove(node.value)
 				print "value: {0} tofindsize: {1}".format(node.value, len(self.valuesToFind))
 				if len(self.valuesToFind) == 0:
+					print "Found all numbers!"
 					break
 
 			# print self.queue.qsize()
@@ -35,7 +36,7 @@ class Tree(object):
 			# print ""
 			if node.value not in self.alreadyFound:
 				if node.value._isinteger():
-					if node.value < 50000:
+					if node.value < 10000:
 						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
 						self.queue.put(factorialNode)
 						#print factorialNode.value
