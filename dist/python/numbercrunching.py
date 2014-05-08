@@ -26,6 +26,8 @@ class Tree(object):
 			if node.value in self.valuesToFind:
 				print "value: {0} queuesize: {1}".format(node.value, len(self.valuesToFind))
 				self.valuesToFind.remove(node.value)
+				if len(self.valuesToFind) == 0:
+					break
 
 			# print self.queue.qsize()
 			# print node.value
@@ -61,23 +63,7 @@ def isWhole(x):
 
 
 print "running..."
-
- 
-# a = decimal.Decimal()
-# a = math.factorial(a)
-# a = decimal.Decimal(a).sqrt()
-
-
 tree = Tree(4)
 tree.fillTree()
+print "done!"
 
-#a = decimal.Decimal(1000.93)
-#a = decimal.Decimal(a).sqrt()
-#a = decimal.Decimal(math.floor(a))
-
-
-print a
-
-
-
-#print a
