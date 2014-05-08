@@ -37,19 +37,16 @@ class Tree(object):
 				if node.value._isinteger():
 					if node.value < 200000:
 						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
-						node.factorialNode = factorialNode
 						self.queue.put(factorialNode)
 						#print factorialNode.value
 
 				if node.value >= 2:
 					sqrtNode = Node(node.value.sqrt(), node, "SQUAREROOT")
-					node.sqrtNode = sqrtNode		
 					self.queue.put(sqrtNode)
 					
 					#print sqrtNode.value
 				if not node.value._isinteger():
 					floorNode = Node(decimal.Decimal(math.floor(node.value)), node, "FLOOR")
-					node.floorNode = floorNode
 					self.queue.put(floorNode)
 			self.alreadyFound.append(node.value)
 
