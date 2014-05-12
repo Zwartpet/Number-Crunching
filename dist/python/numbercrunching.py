@@ -26,6 +26,7 @@ class Tree(object):
 			if node.value in self.valuesToFind:
 				self.valuesToFind.remove(node.value)
 				print "value: {0} tofindsize: {1}".format(node.value, len(self.valuesToFind))
+				printNode(node)
 				if len(self.valuesToFind) == 0:
 					print "Found all numbers!"
 					break
@@ -36,7 +37,7 @@ class Tree(object):
 			# print ""
 			if node.value not in self.alreadyFound:
 				if node.value._isinteger():
-					if node.value < 10000:
+					if node.value < 2000:
 						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
 						self.queue.put(factorialNode)
 						#print factorialNode.value
@@ -50,6 +51,7 @@ class Tree(object):
 					floorNode = Node(decimal.Decimal(math.floor(node.value)), node, "FLOOR")
 					self.queue.put(floorNode)
 			self.alreadyFound.append(node.value)
+		print "while loop is done!"
 
 
 def isWhole(x):
@@ -58,10 +60,18 @@ def isWhole(x):
 	else:
 		return False
 
+def printNode(node):
+	operationList = list()
+	while node.parent is not None:
+		operationList.append(node.operation)
+		node = node.parent
+
+	operationList.reverse()
+	print "Sequence: {0}".format(operationList)
+
 
 
 print "running..."
 tree = Tree(4)
 tree.fillTree()
-print "done!"
 
