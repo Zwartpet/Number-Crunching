@@ -16,7 +16,7 @@ class Tree(object):
 		self.rootNode = Node(4, None, None)
 		self.queue = Queue.Queue()
 		self.queue.put(self.rootNode)
-		self.valuesToFind = list(range(1, 101))
+		self.valuesToFind = list(range(1, 10001))
 		self.alreadyFound = list()
 
 	def fillTree(self):
@@ -37,7 +37,7 @@ class Tree(object):
 			# print ""
 			if node.value not in self.alreadyFound:
 				if node.value._isinteger():
-					if node.value < 2000:
+					if node.value < 100000:
 						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
 						self.queue.put(factorialNode)
 						#print factorialNode.value
