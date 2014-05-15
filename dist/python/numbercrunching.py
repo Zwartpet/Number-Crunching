@@ -26,7 +26,7 @@ class Tree(object):
 
 			if node.value in self.valuesToFind:
 				self.valuesToFind.remove(node.value)
-				print "value: {0} tofindsize: {1}".format(node.value, len(self.valuesToFind))
+				print "value: {0} numbers left: {1}".format(node.value, len(self.valuesToFind))
 				printNode(node)
 				if len(self.valuesToFind) == 0:
 					print ""
