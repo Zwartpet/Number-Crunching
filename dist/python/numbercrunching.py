@@ -1,6 +1,7 @@
 import decimal
 import math
 import Queue
+import time
 
 class Node(object):
 	"""docstring for Node"""
@@ -28,6 +29,7 @@ class Tree(object):
 				print "value: {0} tofindsize: {1}".format(node.value, len(self.valuesToFind))
 				printNode(node)
 				if len(self.valuesToFind) == 0:
+					print ""
 					print "Found all numbers!"
 					break
 
@@ -37,7 +39,7 @@ class Tree(object):
 			# print ""
 			if node.value not in self.alreadyFound:
 				if node.value._isinteger():
-					if node.value < 100000:
+					if node.value < 50000:
 						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
 						self.queue.put(factorialNode)
 						#print factorialNode.value
@@ -72,6 +74,10 @@ def printNode(node):
 
 
 print "running..."
+t0 = time.time()
 tree = Tree(4)
 tree.fillTree()
+t1 = time.time()
+totalTime = t1 - t0
+print "total running time: {0}".format(totalTime)
 
