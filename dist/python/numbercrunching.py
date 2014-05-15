@@ -36,17 +36,15 @@ class Tree(object):
 			if node.value not in self.alreadyFound:
 				if node.value._isinteger():
 					if node.value < 30000:
-						factorialNode = Node(math.factorial(node.value), node, "FACTORIAL")
+						factorialNode = Node(math.factorial(node.value), node, "FAC")
 						self.queue.put(factorialNode)
-						#print factorialNode.value
 
 				if node.value >= 2:
-					sqrtNode = Node(node.value.sqrt(), node, "SQUAREROOT")
+					sqrtNode = Node(node.value.sqrt(), node, "SQR")
 					self.queue.put(sqrtNode)
 					
-					#print sqrtNode.value
 				if not node.value._isinteger():
-					floorNode = Node(decimal.Decimal(math.floor(node.value)), node, "FLOOR")
+					floorNode = Node(decimal.Decimal(math.floor(node.value)), node, "FLO")
 					self.queue.put(floorNode)
 			self.alreadyFound.append(node.value)
 		print "while loop is done!"
