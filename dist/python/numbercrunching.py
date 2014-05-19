@@ -36,7 +36,7 @@ class Tree(object):
 
 			if self.alreadyFound.get(str(node.value), None) is None:
 				if node.value._isinteger():
-					if node.value < 30000:
+					if node.value < 90000:
 						factorialNode = Node(math.factorial(node.value), node, "FAC")
 						self.queue.put(factorialNode)
 
