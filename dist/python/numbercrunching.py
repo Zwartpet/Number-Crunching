@@ -19,6 +19,7 @@ class Tree(object):
 		self.queue.put(self.rootNode)
 		self.valuesToFind = list(range(1, 101))
 		self.alreadyFound = list()
+		self.totalSteps = 0
 
 	def fillTree(self):
 		while not self.queue.empty():
@@ -26,8 +27,8 @@ class Tree(object):
 
 			if node.value in self.valuesToFind:
 				self.valuesToFind.remove(node.value)
-				print "value: {0} numbers left: {1}".format(node.value, len(self.valuesToFind))
-				printNode(node)
+				print "Value found:{0}\nNumbers left: {1}".format(node.value, len(self.valuesToFind))
+				self.printNode(node)
 				if len(self.valuesToFind) == 0:
 					print ""
 					print "Found all numbers!"
@@ -49,6 +50,18 @@ class Tree(object):
 			self.alreadyFound.append(node.value)
 		print "while loop is done!"
 
+	def printNode(self, node):
+		operationList = list()
+		while node.parent is not None:
+			operationList.append(node.operation)
+			node = node.parent
+
+		operationList.reverse()
+		print "Steps: {0}".format(len(operationList))
+		print "Sequence: {0}".format(operationList)
+		self.totalSteps += len(operationList)
+		print ""
+
 
 def isWhole(x):
 	if(decimal.Decimal(x)%1 == 0):
@@ -56,14 +69,8 @@ def isWhole(x):
 	else:
 		return False
 
-def printNode(node):
-	operationList = list()
-	while node.parent is not None:
-		operationList.append(node.operation)
-		node = node.parent
 
-	operationList.reverse()
-	print "Sequence: {0}".format(operationList)
+
 
 
 
@@ -74,4 +81,5 @@ tree.fillTree()
 t1 = time.time()
 totalTime = t1 - t0
 print "total running time: {0}".format(totalTime)
+print "Total steps: {0}".format(tree.totalSteps)
 
