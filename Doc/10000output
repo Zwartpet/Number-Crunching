@@ -1,0 +1,491 @@
+twabidi@login2:~/python$ python num_cru 
+running...
+value: 4 numbers left: 9999
+Sequence: []
+value: 24 numbers left: 9998
+Sequence: ['FAC']
+value: 2 numbers left: 9997
+Sequence: ['SQR']
+value: 1 numbers left: 9996
+Sequence: ['SQR', 'SQR', 'FLO']
+value: 942 numbers left: 9995
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 30 numbers left: 9994
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5 numbers left: 9993
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 120 numbers left: 9992
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC']
+value: 10 numbers left: 9991
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 3 numbers left: 9990
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 6 numbers left: 9989
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC']
+value: 106 numbers left: 9988
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 720 numbers left: 9987
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC']
+value: 1904 numbers left: 9986
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 43 numbers left: 9985
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 26 numbers left: 9984
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO']
+value: 1278 numbers left: 9983
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 35 numbers left: 9982
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 217 numbers left: 9981
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 14 numbers left: 9980
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2116 numbers left: 9979
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1989 numbers left: 9978
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 454 numbers left: 9977
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 46 numbers left: 9976
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 44 numbers left: 9975
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 21 numbers left: 9974
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 543 numbers left: 9973
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 316 numbers left: 9972
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 23 numbers left: 9971
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 17 numbers left: 9970
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2576 numbers left: 9969
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 50 numbers left: 9968
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 7 numbers left: 9967
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 442 numbers left: 9966
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 290 numbers left: 9965
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1725 numbers left: 9964
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5040 numbers left: 9963
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC']
+value: 4062 numbers left: 9962
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2520 numbers left: 9961
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 312 numbers left: 9960
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 41 numbers left: 9959
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4342 numbers left: 9958
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 2172 numbers left: 9957
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 63 numbers left: 9956
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 633 numbers left: 9955
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 65 numbers left: 9954
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 70 numbers left: 9953
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 25 numbers left: 9952
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 8 numbers left: 9951
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 8885 numbers left: 9950
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 94 numbers left: 9949
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 103 numbers left: 9948
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 9 numbers left: 9947
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 200 numbers left: 9946
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 359 numbers left: 9945
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 973 numbers left: 9944
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 606 numbers left: 9943
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 277 numbers left: 9942
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1245 numbers left: 9941
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 18 numbers left: 9940
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 31 numbers left: 9939
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1408 numbers left: 9938
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 16 numbers left: 9937
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 534 numbers left: 9936
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 602 numbers left: 9935
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 37 numbers left: 9934
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 693 numbers left: 9933
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1341 numbers left: 9932
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6673 numbers left: 9931
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 201 numbers left: 9930
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 36 numbers left: 9929
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5560 numbers left: 9928
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 81 numbers left: 9927
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 328 numbers left: 9926
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 8945 numbers left: 9925
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 74 numbers left: 9924
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2138 numbers left: 9923
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 191 numbers left: 9922
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 851 numbers left: 9921
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 229 numbers left: 9920
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 365 numbers left: 9919
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 131 numbers left: 9918
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4487 numbers left: 9917
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 13 numbers left: 9916
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 29 numbers left: 9915
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 15 numbers left: 9914
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1200 numbers left: 9913
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 19 numbers left: 9912
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 11 numbers left: 9911
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 66 numbers left: 9910
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 496 numbers left: 9909
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 848 numbers left: 9908
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2490 numbers left: 9907
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 34 numbers left: 9906
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 102 numbers left: 9905
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 22 numbers left: 9904
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 49 numbers left: 9903
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 956 numbers left: 9902
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 396 numbers left: 9901
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 151 numbers left: 9900
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6317 numbers left: 9899
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+value: 5940 numbers left: 9898
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 280 numbers left: 9897
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 12 numbers left: 9896
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1069 numbers left: 9895
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 2290 numbers left: 9894
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 79 numbers left: 9893
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 268 numbers left: 9892
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 77 numbers left: 9891
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 884 numbers left: 9890
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6485 numbers left: 9889
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 7384 numbers left: 9888
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1726 numbers left: 9887
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 32 numbers left: 9886
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 136 numbers left: 9885
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 47 numbers left: 9884
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 248 numbers left: 9883
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 576 numbers left: 9882
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 80 numbers left: 9881
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5421 numbers left: 9880
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 85 numbers left: 9879
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1822 numbers left: 9878
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 225 numbers left: 9877
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 471 numbers left: 9876
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 427 numbers left: 9875
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 73 numbers left: 9874
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 42 numbers left: 9873
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 253 numbers left: 9872
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 3378 numbers left: 9871
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2935 numbers left: 9870
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 790 numbers left: 9869
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 585 numbers left: 9868
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 20 numbers left: 9867
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 147 numbers left: 9866
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+value: 2865 numbers left: 9865
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 8394 numbers left: 9864
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 58 numbers left: 9863
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 54 numbers left: 9862
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 28 numbers left: 9861
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 53 numbers left: 9860
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 91 numbers left: 9859
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 339 numbers left: 9858
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1098 numbers left: 9857
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 33 numbers left: 9856
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 577 numbers left: 9855
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 119 numbers left: 9854
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1056 numbers left: 9853
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 163 numbers left: 9852
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5167 numbers left: 9851
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 176 numbers left: 9850
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4515 numbers left: 9849
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 3438 numbers left: 9848
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 156 numbers left: 9847
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 117 numbers left: 9846
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6932 numbers left: 9845
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1262 numbers left: 9844
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2254 numbers left: 9843
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 71 numbers left: 9842
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 67 numbers left: 9841
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 5178 numbers left: 9840
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 198 numbers left: 9839
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 116 numbers left: 9838
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1573 numbers left: 9837
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 83 numbers left: 9836
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4303 numbers left: 9835
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4847 numbers left: 9834
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 3352 numbers left: 9833
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 161 numbers left: 9832
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2002 numbers left: 9831
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 101 numbers left: 9830
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 39 numbers left: 9829
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4000 numbers left: 9828
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 239 numbers left: 9827
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6460 numbers left: 9826
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 124 numbers left: 9825
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 69 numbers left: 9824
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 57 numbers left: 9823
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 281 numbers left: 9822
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 2418 numbers left: 9821
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 169 numbers left: 9820
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 513 numbers left: 9819
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 149 numbers left: 9818
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 8017 numbers left: 9817
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 203 numbers left: 9816
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 148 numbers left: 9815
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 417 numbers left: 9814
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4674 numbers left: 9813
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 100 numbers left: 9812
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 154 numbers left: 9811
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 89 numbers left: 9810
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1871 numbers left: 9809
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 115 numbers left: 9808
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 68 numbers left: 9807
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 230 numbers left: 9806
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 394 numbers left: 9805
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 6374 numbers left: 9804
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 264 numbers left: 9803
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 466 numbers left: 9802
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1186 numbers left: 9801
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 542 numbers left: 9800
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 327 numbers left: 9799
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 605 numbers left: 9798
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1532 numbers left: 9797
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 901 numbers left: 9796
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 472 numbers left: 9795
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1246 numbers left: 9794
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1021 numbers left: 9793
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 188 numbers left: 9792
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 784 numbers left: 9791
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 7827 numbers left: 9790
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 317 numbers left: 9789
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 142 numbers left: 9788
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 152 numbers left: 9787
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 948 numbers left: 9786
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 88 numbers left: 9785
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 356 numbers left: 9784
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 153 numbers left: 9783
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 625 numbers left: 9782
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1174 numbers left: 9781
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 247 numbers left: 9780
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 422 numbers left: 9779
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 781 numbers left: 9778
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 315 numbers left: 9777
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 130 numbers left: 9776
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 174 numbers left: 9775
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 27 numbers left: 9774
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 470 numbers left: 9773
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 3767 numbers left: 9772
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 4389 numbers left: 9771
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 406 numbers left: 9770
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 61 numbers left: 9769
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1943 numbers left: 9768
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1028 numbers left: 9767
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 293 numbers left: 9766
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 108 numbers left: 9765
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 134 numbers left: 9764
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 1633 numbers left: 9763
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 164 numbers left: 9762
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 961 numbers left: 9761
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 3550 numbers left: 9760
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 401 numbers left: 9759
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 104 numbers left: 9758
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+value: 880 numbers left: 9757
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+Terminated
+twabidi@login2:~/python$ 
+
