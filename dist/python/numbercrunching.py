@@ -18,7 +18,7 @@ class Tree(object):
 		self.queue = Queue.Queue()
 		self.queue.put(self.rootNode)
 		self.valuesToFind = list(range(1, 101))
-		self.alreadyFound = list()
+		self.alreadyFound = dict()
 		self.totalSteps = 0
 
 	def fillTree(self):
@@ -34,7 +34,7 @@ class Tree(object):
 					print "Found all numbers!"
 					break
 
-			if node.value not in self.alreadyFound:
+			if self.alreadyFound.get(str(node.value), None) is None:
 				if node.value._isinteger():
 					if node.value < 30000:
 						factorialNode = Node(math.factorial(node.value), node, "FAC")
@@ -47,7 +47,7 @@ class Tree(object):
 				if not node.value._isinteger():
 					floorNode = Node(decimal.Decimal(math.floor(node.value)), node, "FLO")
 					self.queue.put(floorNode)
-			self.alreadyFound.append(node.value)
+			self.alreadyFound[str(node.value)] = node.value
 		print "while loop is done!"
 
 	def printNode(self, node):
