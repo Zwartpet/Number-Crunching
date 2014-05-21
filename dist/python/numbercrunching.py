@@ -36,7 +36,7 @@ class Tree(object):
 
 			if self.alreadyFound.get(str(node.value), None) is None:
 				if node.value._isinteger():
-					if node.value < 60000:
+					if node.value < 120000:
 						factorialNode = Node(math.factorial(node.value), node, "FAC")
 						self.queue.put(factorialNode)
 
@@ -74,7 +74,7 @@ def isWhole(x):
 
 
 
-print "running... with 400 and 60000"
+print "running... with 400 and 120000"
 t0 = time.time()
 tree = Tree(4)
 tree.fillTree()
