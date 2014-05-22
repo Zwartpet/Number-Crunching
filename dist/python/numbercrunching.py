@@ -17,7 +17,7 @@ class Tree(object):
 		self.rootNode = Node(4, None, None)
 		self.queue = Queue.Queue()
 		self.queue.put(self.rootNode)
-		self.valuesToFind = list(range(1, 101))
+		self.valuesToFind = list(range(1, 401))
 		self.alreadyFound = dict()
 		self.totalSteps = 0
 
@@ -74,7 +74,7 @@ def isWhole(x):
 
 
 
-print "running..."
+print "running... with 400 and 180000"
 t0 = time.time()
 tree = Tree(4)
 tree.fillTree()
