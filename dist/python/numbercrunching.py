@@ -17,7 +17,7 @@ class Tree(object):
 		self.rootNode = Node(4, None, None)
 		self.queue = Queue.Queue()
 		self.queue.put(self.rootNode)
-		self.valuesToFind = list(range(1, 401))
+		self.valuesToFind = list(range(1, 101))
 		self.alreadyFound = dict()
 		self.totalSteps = 0
 
@@ -36,7 +36,7 @@ class Tree(object):
 
 			if self.alreadyFound.get(str(node.value), None) is None:
 				if node.value._isinteger():
-					if node.value < 180000:
+					if node.value < 30000:
 						factorialNode = Node(math.factorial(node.value), node, "FAC")
 						self.queue.put(factorialNode)
 
@@ -74,7 +74,7 @@ def isWhole(x):
 
 
 
-print "running... with 400 and 180000"
+print "running... Finding 1-100 with the limit 30,000"
 t0 = time.time()
 tree = Tree(4)
 tree.fillTree()
