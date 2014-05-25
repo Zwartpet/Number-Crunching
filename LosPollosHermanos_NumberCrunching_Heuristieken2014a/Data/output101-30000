@@ -1,0 +1,506 @@
+running...
+Value found:4
+Numbers left: 99
+Steps: 0
+Sequence: []
+
+Value found:24
+Numbers left: 98
+Steps: 1
+Sequence: ['FAC']
+
+Value found:2
+Numbers left: 97
+Steps: 1
+Sequence: ['SQR']
+
+Value found:1
+Numbers left: 96
+Steps: 3
+Sequence: ['SQR', 'SQR', 'FLO']
+
+Value found:30
+Numbers left: 95
+Steps: 7
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:5
+Numbers left: 94
+Steps: 8
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:10
+Numbers left: 93
+Steps: 11
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+
+Value found:3
+Numbers left: 92
+Steps: 12
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+
+Value found:6
+Numbers left: 91
+Steps: 13
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC']
+
+Value found:43
+Numbers left: 90
+Steps: 15
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+
+Value found:26
+Numbers left: 89
+Steps: 16
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO']
+
+Value found:35
+Numbers left: 88
+Steps: 18
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:14
+Numbers left: 87
+Steps: 19
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:46
+Numbers left: 86
+Steps: 22
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:44
+Numbers left: 85
+Steps: 22
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:21
+Numbers left: 84
+Steps: 22
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:23
+Numbers left: 83
+Steps: 24
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:17
+Numbers left: 82
+Steps: 25
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:50
+Numbers left: 81
+Steps: 26
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:7
+Numbers left: 80
+Steps: 27
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:41
+Numbers left: 79
+Steps: 28
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:63
+Numbers left: 78
+Steps: 29
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:65
+Numbers left: 77
+Steps: 30
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:70
+Numbers left: 76
+Steps: 30
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO']
+
+Value found:25
+Numbers left: 75
+Steps: 30
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:8
+Numbers left: 74
+Steps: 31
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:94
+Numbers left: 73
+Steps: 32
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:9
+Numbers left: 72
+Steps: 33
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:18
+Numbers left: 71
+Steps: 35
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:31
+Numbers left: 70
+Steps: 35
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:16
+Numbers left: 69
+Steps: 35
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:37
+Numbers left: 68
+Steps: 36
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:36
+Numbers left: 67
+Steps: 38
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:81
+Numbers left: 66
+Steps: 38
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:74
+Numbers left: 65
+Steps: 39
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:13
+Numbers left: 64
+Steps: 41
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:29
+Numbers left: 63
+Steps: 41
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:15
+Numbers left: 62
+Steps: 41
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:19
+Numbers left: 61
+Steps: 42
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:11
+Numbers left: 60
+Steps: 42
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:66
+Numbers left: 59
+Steps: 42
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:34
+Numbers left: 58
+Steps: 43
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:22
+Numbers left: 57
+Steps: 43
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:49
+Numbers left: 56
+Steps: 44
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:12
+Numbers left: 55
+Steps: 45
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:79
+Numbers left: 54
+Steps: 46
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO']
+
+Value found:77
+Numbers left: 53
+Steps: 46
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:32
+Numbers left: 52
+Steps: 46
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:47
+Numbers left: 51
+Steps: 47
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:80
+Numbers left: 50
+Steps: 47
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:85
+Numbers left: 49
+Steps: 47
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:73
+Numbers left: 48
+Steps: 48
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:42
+Numbers left: 47
+Steps: 49
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:20
+Numbers left: 46
+Steps: 49
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:58
+Numbers left: 45
+Steps: 50
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:54
+Numbers left: 44
+Steps: 50
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:28
+Numbers left: 43
+Steps: 50
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:53
+Numbers left: 42
+Steps: 50
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:91
+Numbers left: 41
+Steps: 51
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:33
+Numbers left: 40
+Steps: 52
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:71
+Numbers left: 39
+Steps: 54
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:67
+Numbers left: 38
+Steps: 54
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:83
+Numbers left: 37
+Steps: 55
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:39
+Numbers left: 36
+Steps: 56
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:69
+Numbers left: 35
+Steps: 56
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:57
+Numbers left: 34
+Steps: 56
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:100
+Numbers left: 33
+Steps: 58
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:89
+Numbers left: 32
+Steps: 59
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:68
+Numbers left: 31
+Steps: 59
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:88
+Numbers left: 30
+Steps: 63
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:27
+Numbers left: 29
+Steps: 64
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:61
+Numbers left: 28
+Steps: 66
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:40
+Numbers left: 27
+Steps: 68
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:59
+Numbers left: 26
+Steps: 68
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:60
+Numbers left: 25
+Steps: 69
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:56
+Numbers left: 24
+Steps: 70
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:55
+Numbers left: 23
+Steps: 71
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:82
+Numbers left: 22
+Steps: 71
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:38
+Numbers left: 21
+Steps: 72
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:52
+Numbers left: 20
+Steps: 72
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:78
+Numbers left: 19
+Steps: 73
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:76
+Numbers left: 18
+Steps: 74
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:64
+Numbers left: 17
+Steps: 74
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:75
+Numbers left: 16
+Steps: 75
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:92
+Numbers left: 15
+Steps: 79
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:62
+Numbers left: 14
+Steps: 81
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:45
+Numbers left: 13
+Steps: 83
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:51
+Numbers left: 12
+Steps: 83
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:98
+Numbers left: 11
+Steps: 85
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:72
+Numbers left: 10
+Steps: 88
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:96
+Numbers left: 9
+Steps: 92
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:95
+Numbers left: 8
+Steps: 94
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:48
+Numbers left: 7
+Steps: 99
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:84
+Numbers left: 6
+Steps: 100
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:87
+Numbers left: 5
+Steps: 118
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:97
+Numbers left: 4
+Steps: 130
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:86
+Numbers left: 3
+Steps: 136
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:90
+Numbers left: 2
+Steps: 137
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:99
+Numbers left: 1
+Steps: 152
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+Value found:93
+Numbers left: 0
+Steps: 159
+Sequence: ['FAC', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO', 'FAC', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'SQR', 'FLO']
+
+
+Found all numbers!
+while loop is done!
+total running time: 79.8503229618
+Total steps: 5216
